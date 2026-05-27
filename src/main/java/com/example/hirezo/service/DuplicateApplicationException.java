@@ -1,0 +1,8 @@
+package com.example.hirezo.service;
+
+public class DuplicateApplicationException extends RuntimeException {
+
+    public DuplicateApplicationException(String message) {
+        super(message);
+    }
+}
