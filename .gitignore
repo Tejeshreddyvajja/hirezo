@@ -42,3 +42,6 @@ Thumbs.db
 
 # Generated
 /generated-sources/
+
+# Local Spring properties with secrets
+src/main/resources/application.properties
